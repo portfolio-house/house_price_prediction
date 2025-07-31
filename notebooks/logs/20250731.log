@@ -1,0 +1,60 @@
+2025-07-31 16:17:20 - src.models.train_model - INFO - train_model.py:53 - Training RMSE: 31900.31
+2025-07-31 16:17:20 - src.models.train_model - INFO - train_model.py:54 - Training R²: 0.8181
+2025-07-31 16:17:20 - src.models.train_model - INFO - train_model.py:94 - Test RMSE: 32399.68
+2025-07-31 16:17:20 - src.models.train_model - INFO - train_model.py:95 - Test R²: 0.8459
+2025-07-31 16:17:20 - src.models.train_model - INFO - train_model.py:74 - Model saved to models/model_20250731_1617.pkl
+2025-07-31 16:17:20 - src.models.train_model - INFO - train_model.py:75 - Scaler saved to models/scaler_20250731_1617.pkl
+2025-07-31 16:19:26 - src.models.train_model - INFO - train_model.py:53 - Training RMSE: 31900.31
+2025-07-31 16:19:26 - src.models.train_model - INFO - train_model.py:54 - Training R²: 0.8181
+2025-07-31 16:19:26 - src.models.train_model - INFO - train_model.py:94 - Test RMSE: 32399.68
+2025-07-31 16:19:26 - src.models.train_model - INFO - train_model.py:95 - Test R²: 0.8459
+2025-07-31 16:19:26 - src.models.train_model - INFO - train_model.py:74 - Model saved to models/model_20250731_1619.pkl
+2025-07-31 16:19:26 - src.models.train_model - INFO - train_model.py:75 - Scaler saved to models/scaler_20250731_1619.pkl
+2025-07-31 16:19:30 - src.models.train_model - INFO - train_model.py:53 - Training RMSE: 31900.31
+2025-07-31 16:19:30 - src.models.train_model - INFO - train_model.py:54 - Training R²: 0.8181
+2025-07-31 16:19:30 - src.models.train_model - INFO - train_model.py:94 - Test RMSE: 32399.68
+2025-07-31 16:19:30 - src.models.train_model - INFO - train_model.py:95 - Test R²: 0.8459
+2025-07-31 16:19:30 - src.models.train_model - INFO - train_model.py:74 - Model saved to models/model_20250731_1619.pkl
+2025-07-31 16:19:30 - src.models.train_model - INFO - train_model.py:75 - Scaler saved to models/scaler_20250731_1619.pkl
+2025-07-31 16:30:26 - src.models.train_model - INFO - train_model.py:53 - Training RMSE: 31900.31
+2025-07-31 16:30:26 - src.models.train_model - INFO - train_model.py:54 - Training R²: 0.8181
+2025-07-31 16:30:26 - src.models.train_model - INFO - train_model.py:94 - Test RMSE: 32399.68
+2025-07-31 16:30:26 - src.models.train_model - INFO - train_model.py:95 - Test R²: 0.8459
+2025-07-31 16:30:26 - src.models.train_model - INFO - train_model.py:74 - Model saved to models/model_20250731_1630.pkl
+2025-07-31 16:30:26 - src.models.train_model - INFO - train_model.py:75 - Scaler saved to models/scaler_20250731_1630.pkl
+2025-07-31 16:30:52 - src.models.train_model - INFO - train_model.py:53 - Training RMSE: 31900.31
+2025-07-31 16:30:52 - src.models.train_model - INFO - train_model.py:54 - Training R²: 0.8181
+2025-07-31 16:30:52 - src.models.train_model - INFO - train_model.py:94 - Test RMSE: 32399.68
+2025-07-31 16:30:52 - src.models.train_model - INFO - train_model.py:95 - Test R²: 0.8459
+2025-07-31 16:30:52 - src.models.train_model - INFO - train_model.py:74 - Model saved to models/model_20250731_1630.pkl
+2025-07-31 16:30:52 - src.models.train_model - INFO - train_model.py:75 - Scaler saved to models/scaler_20250731_1630.pkl
+2025-07-31 16:31:05 - src.models.train_model - INFO - train_model.py:53 - Training RMSE: 31900.31
+2025-07-31 16:31:05 - src.models.train_model - INFO - train_model.py:54 - Training R²: 0.8181
+2025-07-31 16:31:05 - src.models.train_model - INFO - train_model.py:94 - Test RMSE: 32399.68
+2025-07-31 16:31:05 - src.models.train_model - INFO - train_model.py:95 - Test R²: 0.8459
+2025-07-31 16:31:05 - src.models.train_model - INFO - train_model.py:74 - Model saved to models/model_20250731_1631.pkl
+2025-07-31 16:31:05 - src.models.train_model - INFO - train_model.py:75 - Scaler saved to models/scaler_20250731_1631.pkl
+2025-07-31 16:31:08 - src.models.train_model - INFO - train_model.py:53 - Training RMSE: 31900.31
+2025-07-31 16:31:08 - src.models.train_model - INFO - train_model.py:54 - Training R²: 0.8181
+2025-07-31 16:31:08 - src.models.train_model - INFO - train_model.py:94 - Test RMSE: 32399.68
+2025-07-31 16:31:08 - src.models.train_model - INFO - train_model.py:95 - Test R²: 0.8459
+2025-07-31 16:31:08 - src.models.train_model - INFO - train_model.py:74 - Model saved to models/model_20250731_1631.pkl
+2025-07-31 16:31:08 - src.models.train_model - INFO - train_model.py:75 - Scaler saved to models/scaler_20250731_1631.pkl
+2025-07-31 16:31:53 - src.models.train_model - INFO - train_model.py:53 - Training RMSE: 31900.31
+2025-07-31 16:31:53 - src.models.train_model - INFO - train_model.py:54 - Training R²: 0.8181
+2025-07-31 16:31:53 - src.models.train_model - INFO - train_model.py:94 - Test RMSE: 32399.68
+2025-07-31 16:31:53 - src.models.train_model - INFO - train_model.py:95 - Test R²: 0.8459
+2025-07-31 16:31:53 - src.models.train_model - INFO - train_model.py:74 - Model saved to models/model_20250731_1631.pkl
+2025-07-31 16:31:53 - src.models.train_model - INFO - train_model.py:75 - Scaler saved to models/scaler_20250731_1631.pkl
+2025-07-31 16:32:01 - src.models.train_model - INFO - train_model.py:53 - Training RMSE: 31900.31
+2025-07-31 16:32:01 - src.models.train_model - INFO - train_model.py:54 - Training R²: 0.8181
+2025-07-31 16:32:01 - src.models.train_model - INFO - train_model.py:94 - Test RMSE: 32399.68
+2025-07-31 16:32:01 - src.models.train_model - INFO - train_model.py:95 - Test R²: 0.8459
+2025-07-31 16:32:01 - src.models.train_model - INFO - train_model.py:74 - Model saved to models/model_20250731_1632.pkl
+2025-07-31 16:32:01 - src.models.train_model - INFO - train_model.py:75 - Scaler saved to models/scaler_20250731_1632.pkl
+2025-07-31 16:32:04 - src.models.train_model - INFO - train_model.py:53 - Training RMSE: 31900.31
+2025-07-31 16:32:04 - src.models.train_model - INFO - train_model.py:54 - Training R²: 0.8181
+2025-07-31 16:32:04 - src.models.train_model - INFO - train_model.py:94 - Test RMSE: 32399.68
+2025-07-31 16:32:04 - src.models.train_model - INFO - train_model.py:95 - Test R²: 0.8459
+2025-07-31 16:32:04 - src.models.train_model - INFO - train_model.py:74 - Model saved to models/model_20250731_1632.pkl
+2025-07-31 16:32:04 - src.models.train_model - INFO - train_model.py:75 - Scaler saved to models/scaler_20250731_1632.pkl

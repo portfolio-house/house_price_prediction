@@ -62,4 +62,4 @@ Generated in `reports/figures/`:
 - Deploy as a web app (Streamlit, Flask, FastAPI)
 
 ## License
-MIT
+[MIT License](LICENSE.txt)
