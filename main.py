@@ -14,5 +14,5 @@ if __name__ == "__main__":
     y_pred = evaluate_model(X_test, y_test)
 
     # Step 4: Visualize results
-    processed_csv = "data/processed/cleaned_20250731_1335.csv"  # Update if needed
+    processed_csv = "data/processed/cleaned_20250731_1335.csv"
     visualize_all(processed_csv, y_test, y_pred)
